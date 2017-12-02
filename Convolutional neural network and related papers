@@ -1,1 +1,46 @@
 
+[1] A Study on Basics of Neural Network (Shaiqua Jabeen, Shobhana D. Patil, Shubhangi V.
+Bhosale, Bharati M. Chaudhari, Prafulla S. Patil) : nternational Journal of Innovative Research
+in Computer and Communication Engineering Vol.5,Issue 4, April 2017
+</br>[2] Introduction to Neural Networks(R. Kruse et al., Computational Intelligence, Texts in
+Computer Science, DOI 10:1007/978􀀀1􀀀4471􀀀7296􀀀3.2): Springer-Verlag London 2016
+</br>[3] Recent Advances in Convolutional Neural Networks (Jiuxiang Gua, Zhenhua Wangb,
+Jason Kuenb, Lianyang Mab, Amir Shahroudyb, Bing Shuaib, Ting Liub, Xingxing Wangb, Li
+Wangb, Gang Wangb, Jianfei Caic, Tsuhan Chenc):arXiv:1512.07108v6 [cs.CV] 19 Oct 2017
+</br>[4] MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
+(Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott Reed, Cheng-Yang
+Fu, Alexander C. Berg1): arXiv:1704.04861v1 [cs.CV] 17 Apr 2017
+</br>[5] SSD: Single Shot MultiBox Detector (Wei Liu, Dragomir Anguelov, Dumitru Erhan,
+Christian Szegedy, Scott Reed, Cheng-Yang Fu1, Alexander C. Berg1):arXiv:1512.02325v5
+[cs.CV] 29 Dec 2016
+</br>[6] M. D. Zeiler, R. Fergus, Visualizing and understanding convolutional networks, in: Proceedings
+of the European Conference on Computer Vision (ECCV), 2014, pp. 818–833.
+</br>[7] M. Rastegari, V. Ordonez, J. Redmon, A. Farhadi, Xnor-net: Imagenet classification using
+binary convolutional neural networks, in: Proceedings of the European Conference on
+Computer Vision (ECCV), 2016, pp. 525–542.]
+</br>[8] Dynamic Routing Between Capsules( Geoffrey E. Hinton, Google Brain Toronto with
+Sara Sabour, Nicholas Frosst sasabour, frosst, geoffhinton@google.com)) arXiv:1710.09829v1
+[cs.CV] 26 Oct 2017
+</br>[9] Fast R-CNN(Ross Girshick Microsoft Research): arXiv:1504.08083v2 [cs.CV] 27 Sep
+2015
+</br>[10] R-FCN: Object Detection via Region-based Fully Convolutional Networks(Jifeng Dai(Microsoft
+Research) ,Yi Li( Tsinghua University), ,Kaiming He(Microsoft Research) Jian Sun( Microsoft
+Research)):arXiv:1605.06409v2 [cs.CV] 21 Jun 2016
+</br>[11] Applications of Convolutional Neural Networks (Ashwin Bhandare , Maithili Bhide ,
+Pranav Gokhale , Rohan Chandavarkar ):(IJCSIT) International Journal of Computer Science
+and Information Technologies, Vol. 7 (5) , 2016, 2206-2215
+</br>[12] Deep Residual Learning for Image Recognition(Kaiming He, Xiangyu Zhang, Shaoqing
+Ren, Jian Sun):arXiv:1512.03385v1 [cs.CV] 10 Dec 2015
+28
+</br>[13] MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
+(Andrew G. Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias
+Weyand, Marco Andreetto, Hartwig Adam):arXiv:1704.04861v1 [cs.CV] 17 Apr 2017
+</br>[14] nception-v4, Inception-ResNet and the Impact of Residual Connections on Learning
+(Christian Szegedy, Sergey Ioffe, Vincent Vanhoucke ):arXiv:1602.07261v2 [cs.CV] 23 Aug
+2016
+</br>[15] Going deeper with convolutions(Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet,
+Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich):
+arXiv3:1409.4842v1 [cs.CV] 17 Sep 2014
+</br>[16] Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable
+Images(Anh Nguyen, Jason Yosinski, Jeff Clune):Computer Vision and Pattern Recognition
+(CVPR ’15), IEEE, 2015.
